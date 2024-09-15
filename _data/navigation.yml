@@ -14,7 +14,7 @@ main:
   - title: "Contact"
     url: /contact   
     
-   - title: "Assignments"
+  - title: "Assignments"
     url: /assignments
         
   #- title: "Blog Posts"

@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Tim McCorry"
 description              : &description "I am a student studying Computer Science at Boston University"
 url                      : https://timoMcC.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""
 repository               : "timomcc/timomcc.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
