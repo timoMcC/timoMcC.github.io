@@ -1,9 +1,8 @@
+---
 layout: archive
 title: "Assignments"
 permalink: /assignments/
 author_profile: true
-redirect_from:
-  - /projects
 ---
 
 {% include base_path %}
@@ -11,6 +10,7 @@ redirect_from:
 Assignments
 ======
 * CS506
+
 
 Assignment 0 
 ======
