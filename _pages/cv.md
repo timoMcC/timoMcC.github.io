@@ -41,3 +41,5 @@ Positions & Leadership
 ======
 * Member of Kappa Theta Pi co-ed professional technology fraternity at Boston University
   * Served on E-board as VP of Brotherhood Engagement
+* Let's Share the Sun Foundation Student Board Member
+  * Since October 2022
