@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Work Experience"
+permalink: /work-experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Computer Science, Boston University, 2026 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Janurary 2024 - Current: Technology Manager
+  * Iniciativa Regeneracion Solar, Let's Share the Sun
+  * Responsible for technology management of a project funded by the Department of Energy to provide no-cost solar systems to families suffering medical need in rural Puerto Rico.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2021 - December 2023: Project Coordinator
+  * Let's Share the Sun Foundation 
+  * Project Management for non-profit solar installer, involved directly in 35 solar installs, led Proyecto Cucubano initiative in 2022 to install 10 residential systems, and Proyecto Alto de Cuba & Projecto Cabecitas de Oro, two projects to install solar on rural nursing homes in collaboration with the Adirondack Solar Alliance. 
+  * Includes 8 months on ground in Adjuntas, Puerto Rico to direct Proyecto Cucubano. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2018 - August 2023 : Soccer Referee
+  * Member of Capital District Referee Association 
+  * Soccer Referee officiating games from a youth to semi-pro level. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English, Spanish (conversational)
+* Programming
+  * Python
+  * Java
+  * OCaml
+* Video Production (Davinci Resolve)
 
-Publications
+Positions & Leadership 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Member of Kappa Theta Pi co-ed professional technology fraternity at Boston University
+  * Served on E-board as VP of Brotherhood Engagement
