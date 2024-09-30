@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Assignments
+
 ======
-* CS506
+CS506 - Data Science Applications
 
 
 Assignment 0 
