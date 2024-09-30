@@ -26,6 +26,6 @@ Assignment 2
 ======
 * [Github Link](https://github.com/timoMcC/mccorryt-assignment-2)
   * This project plots points on a 2D grid to show clustering using Kmeans with different kinds of centroid initialization. See the linked video to see the webpage using flask, and the logic in python. They are not yet integrated.
-  * [YouTube Link](https://github.com/timoMcC/mccorryt-assignment-2)
+  * [YouTube Link](https://youtu.be/6P4r189EY_A)
   
    
