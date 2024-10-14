@@ -32,3 +32,9 @@ Assignment 3
 ======
 * [Github Link](https://github.com/timoMcC/mccorryt-assignment-3)
   * This project implements Singular Value Decomposition on the MNIST dataset and compares the model performance and training time when using different levels of SVD for dimensionality reduction. 
+
+Assignment 4
+======
+* [Github Link](https://github.com/timoMcC/mccorryt-assignment-4)
+  * Implements a basic search engine using Latent Semantic Analysis (LSA)
+  * [YouTube Link](https://youtu.be/6P4r189EY_A)
