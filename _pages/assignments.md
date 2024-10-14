@@ -37,4 +37,4 @@ Assignment 4
 ======
 * [Github Link](https://github.com/timoMcC/mccorryt-assignment-4)
   * Implements a basic search engine using Latent Semantic Analysis (LSA)
-  * [YouTube Link](https://youtu.be/6P4r189EY_A)
+  * [YouTube Link](https://www.youtube.com/watch?v=NLNf3GjSR1o)
