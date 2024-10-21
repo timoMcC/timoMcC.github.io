@@ -38,3 +38,8 @@ Assignment 4
 * [Github Link](https://github.com/timoMcC/mccorryt-assignment-4)
   * Implements a basic search engine using Latent Semantic Analysis (LSA)
   * [YouTube Link](https://www.youtube.com/watch?v=NLNf3GjSR1o)
+
+Assignment 5
+======
+* [Github Link](https://github.com/timoMcC/mccorryt-assignment-5)
+  * K-Nearest Neighbors Kaggle Competition to develop a predictive model to identify customers who are likely to churn (i.e., leave the bank) using the K-Nearest Neighbors (KNN) algorithm.
