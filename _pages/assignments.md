@@ -43,3 +43,8 @@ Assignment 5
 ======
 * [Github Link](https://github.com/timoMcC/mccorryt-assignment-5)
   * K-Nearest Neighbors Kaggle Competition to develop a predictive model to identify customers who are likely to churn (i.e., leave the bank) using the K-Nearest Neighbors (KNN) algorithm.
+
+Midterm Kaggle Competition 
+======
+* [Github Link](https://github.com/timoMcC/mccorryt-assignment-midterm)
+  * Create a model to predict a movie watchers review out of 5 stars based on their review's data (text, summary, time of day, etc)
