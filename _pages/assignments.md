@@ -53,4 +53,4 @@ Assignment 6
 ======
 * [Github Link](https://github.com/timoMcC/mccorryt-assignment-6)
   * Flask app that allows input to see the impact of changing parameters on linear regression
-  * [YouTube Link](https://www.youtube.com/watch?v=NLNf3GjSR1o)
+  * [YouTube Link](https://youtu.be/8rxL6fcWbLw)
