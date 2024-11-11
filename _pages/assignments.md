@@ -59,4 +59,4 @@ Assignment 7
 ======
 * [Github Link](https://github.com/timoMcC/mccorryt-assignment-7)
   * Flask app that allows input to see the impact of changing parameters on linear regression (new to Assignment 7 includes hypothesis testing and confidence intervals through simulations)
-  * [YouTube Link](https://youtu.be/8rxL6fcWbLw)
+  * [YouTube Link](https://youtu.be/U8Xe9ek5xGI)
