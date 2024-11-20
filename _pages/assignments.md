@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "Assignments"
+title: "Assignments CS506"
 permalink: /assignments/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-======
-CS506 - Data Science Applications
 
 
 Assignment 0 
