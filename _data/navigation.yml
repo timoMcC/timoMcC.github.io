@@ -9,10 +9,10 @@ main:
     url: /work-experience
 
   - title: "Projects"
-    url: /projects  
+    url: /work-experience  
 
   - title: "Contact"
-    url: /contact   
+    url: /work-experience
     
   - title: "Assignments"
     url: /assignments
