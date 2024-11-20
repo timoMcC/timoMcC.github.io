@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at Boston University studing Computer Science with a minor in Environmental Analysis and Policy. 
+I am a student at Boston University studying Computer Science with a minor in Environmental Analysis and Policy. 
