@@ -64,3 +64,9 @@ Assignment 8
   * Flask app that allows input to see the impact of changing parameters on linear regression (new to Assignment 7 includes hypothesis testing and confidence intervals through simulations)
  * [YouTube Link](https://www.youtube.com/watch?v=QxsHJe88ERo)
 
+Assignment 9
+======
+* [Github Link](https://github.com/timoMcC/mccorryt-assignment-9)
+  * Flask app that allows input of activation function, learning rate, and learning steps to visualize a neural network.
+ * [YouTube Link](https://youtu.be/zlhQkwmiT20)
+
